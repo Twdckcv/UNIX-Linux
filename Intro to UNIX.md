@@ -17,7 +17,7 @@
 
 ## UNIX Architecture
 
-![[UNIX Architecture.png]]
+<img src="./images/UNIX Architecture.png"/>
 
 * Hardware: The hardware provides the foundation upon which the operating system and software runs
 * Kernel: The kernel allows applications to access the hardware resources without needing to understand the hardware details.
